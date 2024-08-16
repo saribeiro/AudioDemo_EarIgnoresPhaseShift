@@ -4,4 +4,5 @@ The purpose of this repository is to make Python based audio demos for education
 # Contents
 The contents of this repository will be updated as I create new demonstrations or generate more Python code for each demonstration. Here is a current list of folder content.
 
-1. Audio Phase Shifting Demo: As of right now, the only audio demonstration is one showing that phase shifting two signals with identical spectral content (frequency content) produces no difference in the perceived sound even though the signal in the time domain looks quite different.
+## Audio Phase Shifting Demo
+Demonstrates that phase shifting the individual frequencies of a signal produces no difference in perceived sound even though the time domain representations look very different.
